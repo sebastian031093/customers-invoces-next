@@ -1,3 +1,5 @@
+//https://nextjs.org/learn
+
 import Image from 'next/image';
 
 import AcmeLogo from '@/app/ui/acme-logo';
